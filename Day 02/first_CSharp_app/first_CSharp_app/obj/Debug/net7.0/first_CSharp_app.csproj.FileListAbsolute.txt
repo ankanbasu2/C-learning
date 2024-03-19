@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\bin\Debug\net7.0\first_CSharp_app.exe
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\bin\Debug\net7.0\first_CSharp_app.deps.json
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\bin\Debug\net7.0\first_CSharp_app.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\bin\Debug\net7.0\first_CSharp_app.dll
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\bin\Debug\net7.0\first_CSharp_app.pdb
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.dll
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\refint\first_CSharp_app.dll
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.pdb
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\first_CSharp_app.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\first_CSharp_app\first_CSharp_app\obj\Debug\net7.0\ref\first_CSharp_app.dll
