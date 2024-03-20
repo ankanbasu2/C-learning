@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\bin\Debug\net7.0\employee_app.exe
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\bin\Debug\net7.0\employee_app.deps.json
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\bin\Debug\net7.0\employee_app.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\bin\Debug\net7.0\employee_app.dll
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\bin\Debug\net7.0\employee_app.pdb
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.dll
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\refint\employee_app.dll
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.pdb
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\employee_app.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\Day 03\employee_app\employee_app\obj\Debug\net7.0\ref\employee_app.dll

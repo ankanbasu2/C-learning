@@ -1,0 +1,5 @@
+Name: Naruto
+City: Konoha
+Movie: Buruto
+Food: Ramen
+Sports: Talking
